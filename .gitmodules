@@ -1,0 +1,12 @@
+[submodule "RF-tools-KiCAD"]
+	path = RF-tools-KiCAD
+	url = git@github.com:easyw/RF-tools-KiCAD.git
+[submodule "kicad_scripts"]
+	path = kicad_scripts
+	url = https://github.com/NilujePerchut/kicad_scripts.git
+[submodule "kicad-action-plugins"]
+	path = kicad-action-plugins
+	url = https://github.com/easyw/kicad-action-plugins.git
+[submodule "kiactionsmitjaNemec"]
+	path = kiactionsmitjaNemec
+	url = git@github.com:MitjaNemec/Kicad_action_plugins.git
