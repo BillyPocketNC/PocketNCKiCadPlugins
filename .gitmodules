@@ -5,7 +5,7 @@
 	path = kicad_scripts
 	url = https://github.com/NilujePerchut/kicad_scripts.git
 [submodule "kicad-action-plugins"]
-	path = kicad_action_Plugins
+	path = easyw_ki_Action
 	url = https://github.com/easyw/kicad-action-plugins.git
 [submodule "kiactionsmitjaNemec"]
 	path = kiactionsmitjaNemec
